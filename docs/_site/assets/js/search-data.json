@@ -1,9 +1,72 @@
 {"0": {
+    "doc": "France",
+    "title": "France VA’s",
+    "content": " ",
+    "url": "/maps/fr.html#france-vas",
+    
+    "relUrl": "/maps/fr.html#france-vas"
+  },"1": {
+    "doc": "France",
+    "title": "France",
+    "content": " ",
+    "url": "/maps/fr.html",
+    
+    "relUrl": "/maps/fr.html"
+  },"2": {
+    "doc": "Wine Maps",
+    "title": "Wine Maps",
+    "content": "A complete artifact package should include shapfile, KML and geojson data. The geojson format is standard used throughout this project for its inherent versatility. Every effort will be made to use existing standards where possible. Otherwise we will promote already proposed specifications or propose our own. us_{ava-name}.geojson or fr_{} . ",
+    "url": "/maps/",
+    
+    "relUrl": "/maps/"
+  },"3": {
+    "doc": "Upstream",
+    "title": "Upstream data",
+    "content": " ",
+    "url": "/upstream/#upstream-data",
+    
+    "relUrl": "/upstream/#upstream-data"
+  },"4": {
+    "doc": "Upstream",
+    "title": "Upstream",
+    "content": " ",
+    "url": "/upstream/",
+    
+    "relUrl": "/upstream/"
+  },"5": {
+    "doc": "Home",
+    "title": "Open Wine Maps",
+    "content": "Open Wine Maps is s a community effort to organize global geographical information relating to the world of wine. Primary focus areas include: . | Wine producing regions | Official and proposed viticulture areas potentially using the Landform Schema.org type definition. | Winery’s described using the Winery Schema.org type definition | . Secondary . | Vineyards potentially using the Landform Schema.org type definition. | Vines | Wines described with the Product Schema.org type definition | Winemaker potentially described using Ronan Guilloux’s proposed Winemaker schema type an extention to the official Person Schema.org type definition | . Tirtiary . | Historical weather and planting data | . ",
+    "url": "/#open-wine-maps",
+    
+    "relUrl": "/#open-wine-maps"
+  },"6": {
     "doc": "Home",
     "title": "Home",
-    "content": "This is another test bare-minimum template to create a Jekyll site that uses the Just the Docs theme. You can easily set the created site to be published on GitHub Pages – the README file explains how to do that, along with other details. If Jekyll is installed on your computer, you can also build and preview the created site locally. This lets you test changes before committing them, and avoids waiting for GitHub Pages.1 And you will be able to deploy your local build to a different platform than GitHub Pages. More specifically, the created site: . | uses a gem-based approach, i.e. uses a Gemfile and loads the just-the-docs gem | uses the GitHub Pages / Actions workflow to build and publish the site on GitHub Pages | . Other than that, you’re free to customize sites that you create with this template, however you like. You can easily change the versions of just-the-docs and Jekyll it uses, as well as adding further plugins. Browse our documentation to learn more about how to use this theme. To get started with creating a site, simply: . | click “use this template” to create a GitHub repository | go to Settings &gt; Pages &gt; Build and deployment &gt; Source, and select GitHub Actions | . If you want to maintain your docs in the docs directory of an existing project repo, see Hosting your docs from an existing project repo in the template README. | It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub. &#8617; . | . ",
+    "content": " ",
     "url": "/",
     
     "relUrl": "/"
+  },"7": {
+    "doc": "United States",
+    "title": "United Sates",
+    "content": "The United States officially recognizes 259 regulated American Viticulture Areas (AVA’s). ",
+    "url": "/maps/us.html#united-sates",
+    
+    "relUrl": "/maps/us.html#united-sates"
+  },"8": {
+    "doc": "United States",
+    "title": "Viticulture Areas",
+    "content": " ",
+    "url": "/maps/us.html#viticulture-areas",
+    
+    "relUrl": "/maps/us.html#viticulture-areas"
+  },"9": {
+    "doc": "United States",
+    "title": "United States",
+    "content": " ",
+    "url": "/maps/us.html",
+    
+    "relUrl": "/maps/us.html"
   }
 }

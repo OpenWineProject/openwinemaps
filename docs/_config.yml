@@ -1,8 +1,22 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Open Wine Maps
+description: A repository for global wine related geophraphical artificats. 
 theme: just-the-docs
 
 url: https://openwinemaps.org
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  # Open Wine Project: https://openwineproject.org
+  Project Repository: https://github.com/OpenWineProject/openwinemaps
+
+# plugins:
+  # - jekyll-leaflet
+
+# collections:
+#   maps:
+#    permalink: "/:collection/:path"
+#    output: true
+
+# just_the_docs: 
+#   collections:
+#     maps:
+#       name: Maps
