@@ -17,7 +17,10 @@ The United States officially recognizes 259 regulated American Viticulture Areas
     var map = L.map('avas', {
         center: [40.02, -100.88],
         zoom: 4,
-        scrollWheelZoom: false
+        scrollWheelZoom: false,
+        fullscreenControl: {
+            pseudoFullscreen: true
+        }
     });
 
     var attribution = 'Map <a href="/credits#maps">credits</a>.';
