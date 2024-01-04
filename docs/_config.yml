@@ -8,6 +8,8 @@ aux_links:
   # Open Wine Project: https://openwineproject.org
   Project Repository: https://github.com/OpenWineProject/openwinemaps
 
+color_scheme: owmcolors
+
 # plugins:
   # - jekyll-leaflet
 
