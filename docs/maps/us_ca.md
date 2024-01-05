@@ -70,4 +70,4 @@ grand_parent: Wine Maps
 
 ## Local Area Guides
 
-### Santa Barbara 
+<!-- ### Santa Barbara  -->
