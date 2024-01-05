@@ -2,6 +2,7 @@
 title: United States    
 layout: default
 parent: Wine Maps
+has_children: true
 ---
 
 # United Sates
@@ -53,7 +54,7 @@ The United States officially recognizes 259 regulated American Viticulture Areas
 
     var layerControl = L.control.layers(baseMaps).addTo(map);
 
-    fetch('us-avas.geojson')
+    fetch('us_avas.geojson')
         .then(response => response.json())
         .then(geojsonFeature => {
             var avas = L.geoJSON(geojsonFeature, {
@@ -65,6 +66,20 @@ The United States officially recognizes 259 regulated American Viticulture Areas
             }).addTo(map);
             
             layerControl.addOverlay(avas, "AVA's").addTo(map);
+        });
+
+    fetch('us_avas_historic.geojson')
+        .then(response => response.json())
+        .then(geojsonFeature => {
+            var avas = L.geoJSON(geojsonFeature, {
+                style: function (feature) {
+                    return {color: 'purple', weight: .75};
+                }
+            }).bindTooltip(function (layer) {
+                return "<b>Name: </b>" + layer.feature.properties.name + "<br><b>Date Created: </b>" + layer.feature.properties.created;
+            });
+            
+            layerControl.addOverlay(avas, "Historic AVA's").addTo(map);
         });
 
 </script>

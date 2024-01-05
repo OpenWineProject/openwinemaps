@@ -1,0 +1,372 @@
+[
+  {
+    "Rank": 23,
+    "CountryName": "Switzerland",
+    "ProductionInTonnes": "93,365"
+  },
+  {
+    "Rank": 10,
+    "CountryName": "Germany",
+    "ProductionInTonnes": "920,200"
+  },
+  {
+    "Rank": 51,
+    "CountryName": "Azerbaijan",
+    "ProductionInTonnes": "9,512"
+  },
+  {
+    "Rank": 52,
+    "CountryName": "Bolivia",
+    "ProductionInTonnes": "9,422"
+  },
+  {
+    "Rank": 24,
+    "CountryName": "Ukraine",
+    "ProductionInTonnes": "86,904"
+  },
+  {
+    "Rank": 25,
+    "CountryName": "Japan",
+    "ProductionInTonnes": "85,000"
+  },
+  {
+    "Rank": 53,
+    "CountryName": "Madagascar",
+    "ProductionInTonnes": "8,350"
+  },
+  {
+    "Rank": 71,
+    "CountryName": "Liechtenstein",
+    "ProductionInTonnes": "79"
+  },
+  {
+    "Rank": 26,
+    "CountryName": "Peru",
+    "ProductionInTonnes": "73,000"
+  },
+  {
+    "Rank": 27,
+    "CountryName": "Uruguay",
+    "ProductionInTonnes": "72,500"
+  },
+  {
+    "Rank": 72,
+    "CountryName": "Syria",
+    "ProductionInTonnes": "70"
+  },
+  {
+    "Rank": 54,
+    "CountryName": "Bosnia and Herzegovina",
+    "ProductionInTonnes": "7,524"
+  },
+  {
+    "Rank": 11,
+    "CountryName": "Portugal",
+    "ProductionInTonnes": "603,327"
+  },
+  {
+    "Rank": 55,
+    "CountryName": "Armenia",
+    "ProductionInTonnes": "6,174"
+  },
+  {
+    "Rank": 56,
+    "CountryName": "Lithuania",
+    "ProductionInTonnes": "6,005"
+  },
+  {
+    "Rank": 66,
+    "CountryName": "Jordan",
+    "ProductionInTonnes": "550"
+  },
+  {
+    "Rank": 28,
+    "CountryName": "Canada",
+    "ProductionInTonnes": "54,663"
+  },
+  {
+    "Rank": 29,
+    "CountryName": "Algeria",
+    "ProductionInTonnes": "52,000"
+  },
+  {
+    "Rank": 30,
+    "CountryName": "Czech Republic",
+    "ProductionInTonnes": "52,000"
+  },
+  {
+    "Rank": 31,
+    "CountryName": "North Macedonia",
+    "ProductionInTonnes": "51,013"
+  },
+  {
+    "Rank": 57,
+    "CountryName": "Egypt",
+    "ProductionInTonnes": "5,000"
+  },
+  {
+    "Rank": 58,
+    "CountryName": "Israel",
+    "ProductionInTonnes": "5,000"
+  },
+  {
+    "Rank": 73,
+    "CountryName": "Poland",
+    "ProductionInTonnes": "49"
+  },
+  {
+    "Rank": 32,
+    "CountryName": "Croatia",
+    "ProductionInTonnes": "45,272"
+  },
+  {
+    "Rank": 33,
+    "CountryName": "Turkey",
+    "ProductionInTonnes": "44,707"
+  },
+  {
+    "Rank": 67,
+    "CountryName": "United Kingdom",
+    "ProductionInTonnes": "425"
+  },
+  {
+    "Rank": 1,
+    "CountryName": "Italy",
+    "ProductionInTonnes": "4,796,900"
+  },
+  {
+    "Rank": 2,
+    "CountryName": "Spain",
+    "ProductionInTonnes": "4,607,850"
+  },
+  {
+    "Rank": 3,
+    "CountryName": "France",
+    "ProductionInTonnes": "4,293,466"
+  },
+  {
+    "Rank": 34,
+    "CountryName": "Mexico",
+    "ProductionInTonnes": "39,360"
+  },
+  {
+    "Rank": 35,
+    "CountryName": "Turkmenistan",
+    "ProductionInTonnes": "39,000"
+  },
+  {
+    "Rank": 12,
+    "CountryName": "Romania",
+    "ProductionInTonnes": "378,283"
+  },
+  {
+    "Rank": 36,
+    "CountryName": "Morocco",
+    "ProductionInTonnes": "37,000"
+  },
+  {
+    "Rank": 37,
+    "CountryName": "Uzbekistan",
+    "ProductionInTonnes": "36,000"
+  },
+  {
+    "Rank": 13,
+    "CountryName": "Greece",
+    "ProductionInTonnes": "334,300"
+  },
+  {
+    "Rank": 14,
+    "CountryName": "Russia",
+    "ProductionInTonnes": "327,400"
+  },
+  {
+    "Rank": 15,
+    "CountryName": "New Zealand",
+    "ProductionInTonnes": "320,400"
+  },
+  {
+    "Rank": 38,
+    "CountryName": "Slovakia",
+    "ProductionInTonnes": "32,527"
+  },
+  {
+    "Rank": 74,
+    "CountryName": "Réunion",
+    "ProductionInTonnes": "30"
+  },
+  {
+    "Rank": 4,
+    "CountryName": "United States",
+    "ProductionInTonnes": "3,300,000"
+  },
+  {
+    "Rank": 39,
+    "CountryName": "Belarus",
+    "ProductionInTonnes": "29,980"
+  },
+  {
+    "Rank": 16,
+    "CountryName": "Brazil",
+    "ProductionInTonnes": "273,100"
+  },
+  {
+    "Rank": 17,
+    "CountryName": "Hungary",
+    "ProductionInTonnes": "258,520"
+  },
+  {
+    "Rank": 40,
+    "CountryName": "Albania",
+    "ProductionInTonnes": "24,000"
+  },
+  {
+    "Rank": 41,
+    "CountryName": "Kazakhstan",
+    "ProductionInTonnes": "21,993"
+  },
+  {
+    "Rank": 42,
+    "CountryName": "Tunisia",
+    "ProductionInTonnes": "21,500"
+  },
+  {
+    "Rank": 59,
+    "CountryName": "Belgium",
+    "ProductionInTonnes": "2,900"
+  },
+  {
+    "Rank": 60,
+    "CountryName": "Latvia",
+    "ProductionInTonnes": "2,450"
+  },
+  {
+    "Rank": 61,
+    "CountryName": "Malta",
+    "ProductionInTonnes": "2,426"
+  },
+  {
+    "Rank": 18,
+    "CountryName": "Austria",
+    "ProductionInTonnes": "199,869"
+  },
+  {
+    "Rank": 19,
+    "CountryName": "Serbia",
+    "ProductionInTonnes": "198,183"
+  },
+  {
+    "Rank": 68,
+    "CountryName": "Costa Rica",
+    "ProductionInTonnes": "175"
+  },
+  {
+    "Rank": 43,
+    "CountryName": "Montenegro",
+    "ProductionInTonnes": "16,000"
+  },
+  {
+    "Rank": 69,
+    "CountryName": "Panama",
+    "ProductionInTonnes": "159"
+  },
+  {
+    "Rank": 70,
+    "CountryName": "Tajikistan",
+    "ProductionInTonnes": "150"
+  },
+  {
+    "Rank": 20,
+    "CountryName": "Moldova",
+    "ProductionInTonnes": "149,850"
+  },
+  {
+    "Rank": 44,
+    "CountryName": "Lebanon",
+    "ProductionInTonnes": "14,700"
+  },
+  {
+    "Rank": 21,
+    "CountryName": "Bulgaria",
+    "ProductionInTonnes": "130,500"
+  },
+  {
+    "Rank": 45,
+    "CountryName": "Slovenia",
+    "ProductionInTonnes": "13,229"
+  },
+  {
+    "Rank": 46,
+    "CountryName": "Colombia",
+    "ProductionInTonnes": "13,000"
+  },
+  {
+    "Rank": 47,
+    "CountryName": "Luxembourg",
+    "ProductionInTonnes": "12,494"
+  },
+  {
+    "Rank": 48,
+    "CountryName": "Cuba",
+    "ProductionInTonnes": "12,080"
+  },
+  {
+    "Rank": 49,
+    "CountryName": "Estonia",
+    "ProductionInTonnes": "11,104"
+  },
+  {
+    "Rank": 22,
+    "CountryName": "Georgia",
+    "ProductionInTonnes": "108,600"
+  },
+  {
+    "Rank": 50,
+    "CountryName": "Cyprus",
+    "ProductionInTonnes": "10,302"
+  },
+  {
+    "Rank": 62,
+    "CountryName": "Zimbabwe",
+    "ProductionInTonnes": "1,750"
+  },
+  {
+    "Rank": 5,
+    "CountryName": "China",
+    "ProductionInTonnes": "1,700,000"
+  },
+  {
+    "Rank": 63,
+    "CountryName": "Kyrgyzstan",
+    "ProductionInTonnes": "1,700"
+  },
+  {
+    "Rank": 64,
+    "CountryName": "Paraguay",
+    "ProductionInTonnes": "1,500"
+  },
+  {
+    "Rank": 6,
+    "CountryName": "Argentina",
+    "ProductionInTonnes": "1,498,380"
+  },
+  {
+    "Rank": 65,
+    "CountryName": "Ethiopia",
+    "ProductionInTonnes": "1,297"
+  },
+  {
+    "Rank": 7,
+    "CountryName": "Chile",
+    "ProductionInTonnes": "1,214,000"
+  },
+  {
+    "Rank": 8,
+    "CountryName": "Australia",
+    "ProductionInTonnes": "1,186,343"
+  },
+  {
+    "Rank": 9,
+    "CountryName": "South Africa",
+    "ProductionInTonnes": "1,146,006"
+  }
+]

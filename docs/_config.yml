@@ -9,7 +9,12 @@ aux_links:
   Project Repository: https://github.com/OpenWineProject/openwinemaps
 
 # plugins:
-  # - jekyll-leaflet
+#   - jekyll-sqlite
+
+# sqlite:
+#   - data: countries
+#     file: _db/openwinemaps.sqlite3
+#     query: SELECT * FROM productionByCountry ORDER by ProductionInTonnes DESC
 
 # collections:
 #   maps:
