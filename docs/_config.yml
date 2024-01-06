@@ -8,7 +8,7 @@ ga_tracking: G-037QKQY0BY
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 aux_links:
-  # Open Wine Project: https://openwineproject.org
+  Open Wine Project: https://openwineproject.org
   Project Repository: https://github.com/OpenWineProject/openwinemaps
 
 # plugins:
