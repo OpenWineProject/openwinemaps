@@ -6,7 +6,7 @@ nav_order: 1
 
 # Open Wine Maps
 
-Open Wine Maps is s a community effort to organize global geographical information relating to the world of wine. 
+Open Wine Maps is s a community effort to organize global geographical information relating to the world of wine. It is a purely educational project or for those interested in the geography of wine. 
 
 Current community focus areas are prioritized as primary, secondary and terriary.
 
