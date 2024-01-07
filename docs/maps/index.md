@@ -46,7 +46,7 @@ Choropleth map of wine producing countries by production.
     }
 var producers = getProductionByCountry();
 console.log(producers);
-    fetch('/data/countries.geojson')
+    fetch('https://raw.githubusercontent.com/OpenWineProject/openwinemaps/main/docs/data/countries.geojson')
         .then(response => response.json())
         .then(countries => {
 

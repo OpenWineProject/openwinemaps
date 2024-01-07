@@ -38,7 +38,7 @@ The aspirations for this project are as board as the topic itself is defined:
 > 
 > — _The American Heritage® Dictionary of the English Language, 5th Edition_
 
-Two very smart examples provided by the UC Davis Library GitHub and, as best as I can tell, [Ronan Guilloux](https://github.com/ronanguilloux) of OpenWines in France, [cite source] and [cite source], are providing some base assumptions and guiding principles. 
+Two very smart examples provided by the [UC Davis Library GitHub](https://github.com/UCDavisLibrary/ava) and [Ronan Guilloux](https://github.com/ronanguilloux) of OpenWines in France, are providing some base assumptions and guiding principles. 
 
 [Tag:landuse=vineyard](https://wiki.openstreetmap.org/wiki/Tag:landuse%3Dvineyard)
 
@@ -48,6 +48,7 @@ Two very smart examples provided by the UC Davis Library GitHub and, as best as 
  - [Wine DB, Austria via GitHub](https://github.com/openwine)
 
 ## Sources
+ - https://ucdavislibrary.github.io/ava/
  - [INAO, France](https://www.inao.gouv.fr/eng/Publications/Donnees-et-cartes/Informations-geographiques)
  - https://www.ttb.gov/wine/established-avas
  - https://www.ttb.gov/wine/ava-map-explorer

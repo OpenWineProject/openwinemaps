@@ -5,6 +5,16 @@ parent: Wine Maps
 ---
 
 # Viticulture Areas France
+The 8 Main Wine Regions in France
+
+1. Bordeaux
+2. Burgundy (Bourgogne)
+3. Champagne
+4. Languedoc-Roussillon area in southeast France is the largest wine region.
+5. Loire Valley (Val de Loire)
+6. The Rhône Valley (Côtes du Rhône)
+7. Alsace
+8. Savoie and the Jura
 
 <div id="avas" style="width: 100%; height: 400px" ></div>
 
@@ -53,7 +63,7 @@ parent: Wine Maps
         console.log(e.latlng.lat,e.latlng.lng);
     });
 
-    fetch('fr_avas.geojson')
+    fetch('fr_regions.geojson')
         .then(response => response.json())
         .then(geojsonFeature => {
             var avas = L.geoJSON(geojsonFeature, {
@@ -64,6 +74,25 @@ parent: Wine Maps
                 return "<b>Name: </b>" + layer.feature.properties.name + "<br><b>Appellation: </b>" + layer.feature.properties.appellation;
             }).addTo(map);
             
-            layerControl.addOverlay(avas, "AVA's").addTo(map);
+            layerControl.addOverlay(avas, "Regions").addTo(map);
         });    
 </script>
+
+## Wine Regions of France
+
+Loire Valley
+Champagne
+Moselle
+Alsace
+Burgundy
+Jura
+Beaujolais
+Bugey
+Savoie
+Rhône Valley
+Provence
+Languedoc
+Roussillon
+Corse
+South West
+Bordelais
