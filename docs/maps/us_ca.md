@@ -42,7 +42,7 @@ grand_parent: Wine Maps
 
     var baseMaps = {
         "Default": baseLayer,
-        "Topology": OpenTopoMap,
+        "Topography": OpenTopoMap,
         "Sattelite": Esri_WorldImagery,
         "Terrain": Esri_WorldPhysical
     };

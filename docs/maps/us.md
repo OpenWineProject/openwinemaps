@@ -47,7 +47,7 @@ The United States officially recognizes 259 regulated American Viticulture Areas
 
     var baseMaps = {
         "Default": baseLayer,
-        "Topology": OpenTopoMap,
+        "Topography": OpenTopoMap,
         "Sattelite": Esri_WorldImagery,
         "Terrain": Esri_WorldPhysical
     };

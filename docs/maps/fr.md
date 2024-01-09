@@ -2,6 +2,7 @@
 title: France
 layout: default
 parent: Wine Maps
+has_children: true
 ---
 
 # Viticulture Areas France
@@ -52,7 +53,7 @@ The 8 Main Wine Regions in France
 
     var baseMaps = {
         "Default": baseLayer,
-        "Topology": OpenTopoMap,
+        "Topography": OpenTopoMap,
         "Sattelite": Esri_WorldImagery,
         "Terrain": Esri_WorldPhysical
     };
